@@ -1,0 +1,85 @@
+{
+"company": [
+{
+  "id": 1,
+  "name": "Voolia",
+  "category": "Indonesia"
+}, {
+  "id": 2,
+  "name": "Fivechat",
+  "category": "Finland"
+}, {
+  "id": 3,
+  "name": "Avamm",
+  "category": "United States"
+}, {
+  "id": 4,
+  "name": "Blogspan",
+  "category": "Afghanistan"
+}, {
+  "id": 5,
+  "name": "Skibox",
+  "category": "Russia"
+}, {
+  "id": 6,
+  "name": "Eamia",
+  "category": "Greece"
+}, {
+  "id": 7,
+  "name": "Thoughtbeat",
+  "category": "Czech Republic"
+}, {
+  "id": 8,
+  "name": "Skiptube",
+  "category": "Paraguay"
+}, {
+  "id": 9,
+  "name": "Realblab",
+  "category": "China"
+}, {
+  "id": 10,
+  "name": "Voomm",
+  "category": "Bosnia and Herzegovina"
+}, {
+  "id": 11,
+  "name": "Camimbo",
+  "category": "Poland"
+}, {
+  "id": 12,
+  "name": "Browseblab",
+  "category": "Niger"
+}, {
+  "id": 13,
+  "name": "Kare",
+  "category": "United States"
+}, {
+  "id": 14,
+  "name": "Yakitri",
+  "category": "Brazil"
+}, {
+  "id": 15,
+  "name": "Jazzy",
+  "category": "Venezuela"
+}, {
+  "id": 16,
+  "name": "Skipfire",
+  "category": "China"
+}, {
+  "id": 17,
+  "name": "Bubblebox",
+  "category": "China"
+}, {
+  "id": 18,
+  "name": "Vitz",
+  "category": "Sweden"
+}, {
+  "id": 19,
+  "name": "Eare",
+  "category": "Indonesia"
+}, {
+  "id": 20,
+  "name": "Ntags",
+  "category": "Russia"
+}
+]
+}
