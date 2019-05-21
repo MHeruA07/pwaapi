@@ -1,205 +1,124 @@
 {
-"company": [
-{
+"company": [{
   "id": 1,
-  "name": "Skinder",
-  "category": "Books"
+  "name": "Meevee",
+  "category": "Technology"
 }, {
   "id": 2,
-  "name": "Browsecat",
-  "category": "Home"
+  "name": "Muxo",
+  "category": "Technology"
 }, {
   "id": 3,
-  "name": "Izio",
-  "category": "Electronics"
+  "name": "Zava",
+  "category": "Consumer Services"
 }, {
   "id": 4,
-  "name": "Realblab",
-  "category": "Games"
+  "name": "Wordify",
+  "category": "Energy"
 }, {
   "id": 5,
-  "name": "Teklist",
-  "category": "Movies"
+  "name": "Pixoboo",
+  "category": "Consumer Services"
 }, {
   "id": 6,
-  "name": "Yacero",
-  "category": "Baby"
+  "name": "Jazzy",
+  "category": "Technology"
 }, {
   "id": 7,
-  "name": "Zava",
-  "category": "Baby"
+  "name": "Dynava",
+  "category": "Consumer Services"
 }, {
   "id": 8,
-  "name": "Avamm",
-  "category": "Outdoors"
+  "name": "Yacero",
+  "category": "Entertainment"
 }, {
   "id": 9,
-  "name": "Myworks",
-  "category": "Tools"
+  "name": "Midel",
+  "category": "Health Care"
 }, {
   "id": 10,
-  "name": "Kayveo",
-  "category": "Grocery"
+  "name": "Realbridge",
+  "category": "Basic Industries"
 }, {
   "id": 11,
-  "name": "Devshare",
-  "category": "Shoes"
+  "name": "Trudeo",
+  "category": "Basic Industries"
 }, {
   "id": 12,
-  "name": "Wikido",
-  "category": "Garden"
+  "name": "Gigaclub",
+  "category": "Miscellaneous"
 }, {
   "id": 13,
-  "name": "Linklinks",
-  "category": "Industrial"
+  "name": "Livepath",
+  "category": "Finance"
 }, {
   "id": 14,
-  "name": "Oyondu",
-  "category": "Games"
+  "name": "Fivespan",
+  "category": "Health Care"
 }, {
   "id": 15,
-  "name": "Kazio",
-  "category": "Electronics"
+  "name": "Ainyx",
+  "category": "Entertainment"
 }, {
   "id": 16,
-  "name": "Kaymbo",
-  "category": "Beauty"
+  "name": "Yakijo",
+  "category": "Finance"
 }, {
   "id": 17,
-  "name": "Gabcube",
-  "category": "Automotive"
+  "name": "Jabbersphere",
+  "category": "Technology"
 }, {
   "id": 18,
-  "name": "Skidoo",
-  "category": "Tools"
+  "name": "Thoughtstorm",
+  "category": "Finance"
 }, {
   "id": 19,
-  "name": "Thoughtmix",
-  "category": "Outdoors"
+  "name": "Bubblemix",
+  "category": "Miscellaneous"
 }, {
   "id": 20,
-  "name": "Blognation",
-  "category": "Computers"
+  "name": "Bluezoom",
+  "category": "Technology"
 }, {
   "id": 21,
-  "name": "Wikivu",
-  "category": "Shoes"
+  "name": "Mita",
+  "category": "Consumer Services"
 }, {
   "id": 22,
-  "name": "Meetz",
-  "category": "Outdoors"
+  "name": "Minyx",
+  "category": "Basic Industries"
 }, {
   "id": 23,
-  "name": "Browsebug",
-  "category": "Industrial"
+  "name": "Brightdog",
+  "category": "Energy"
 }, {
   "id": 24,
-  "name": "Mybuzz",
-  "category": "Clothing"
+  "name": "Edgeblab",
+  "category": "Finance"
 }, {
   "id": 25,
-  "name": "Jetpulse",
-  "category": "Games"
+  "name": "Gabtype",
+  "category": "Basic Industries"
 }, {
   "id": 26,
-  "name": "Thoughtbeat",
-  "category": "Electronics"
+  "name": "Livetube",
+  "category": "Entertainment"
 }, {
   "id": 27,
-  "name": "Gigaclub",
-  "category": "Grocery"
+  "name": "Divape",
+  "category": "Public Utilities"
 }, {
   "id": 28,
-  "name": "Zoozzy",
-  "category": "Automotive"
+  "name": "Realbridge",
+  "category": "Capital Goods"
 }, {
   "id": 29,
-  "name": "Quire",
-  "category": "Outdoors"
+  "name": "Skilith",
+  "category": "Miscellaneous"
 }, {
   "id": 30,
-  "name": "Jabbersphere",
-  "category": "Baby"
-}, {
-  "id": 31,
-  "name": "Kimia",
-  "category": "Grocery"
-}, {
-  "id": 32,
-  "name": "Trudeo",
-  "category": "Health"
-}, {
-  "id": 33,
-  "name": "Thoughtworks",
-  "category": "Baby"
-}, {
-  "id": 34,
-  "name": "Yabox",
-  "category": "Electronics"
-}, {
-  "id": 35,
-  "name": "Viva",
-  "category": "Movies"
-}, {
-  "id": 36,
-  "name": "Quimm",
-  "category": "Health"
-}, {
-  "id": 37,
-  "name": "Oyonder",
-  "category": "Kids"
-}, {
-  "id": 38,
-  "name": "Eazzy",
-  "category": "Baby"
-}, {
-  "id": 39,
-  "name": "Kwinu",
-  "category": "Books"
-}, {
-  "id": 40,
-  "name": "Brainsphere",
-  "category": "Garden"
-}, {
-  "id": 41,
-  "name": "Linklinks",
-  "category": "Clothing"
-}, {
-  "id": 42,
-  "name": "Yakitri",
-  "category": "Home"
-}, {
-  "id": 43,
-  "name": "Lajo",
-  "category": "Automotive"
-}, {
-  "id": 44,
-  "name": "Wordpedia",
-  "category": "Home"
-}, {
-  "id": 45,
-  "name": "Oyoyo",
-  "category": "Industrial"
-}, {
-  "id": 46,
-  "name": "Oyondu",
-  "category": "Clothing"
-}, {
-  "id": 47,
-  "name": "Bubbletube",
-  "category": "Home"
-}, {
-  "id": 48,
-  "name": "Yakijo",
-  "category": "Movies"
-}, {
-  "id": 49,
-  "name": "Skiptube",
-  "category": "Garden"
-}, {
-  "id": 50,
-  "name": "Oloo",
-  "category": "Clothing"
+  "name": "Topicshots",
+  "category": "Public Utilities"
 }
 ]
 }
