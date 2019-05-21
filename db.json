@@ -2,404 +2,124 @@
 "company": [
 {
   "id": 1,
-  "name": "Youfeed",
-  "category": "China"
+  "name": "Abata",
+  "category": "Books"
 }, {
   "id": 2,
-  "name": "Dabvine",
-  "category": "Sweden"
+  "name": "Zoombox",
+  "category": "Home"
 }, {
   "id": 3,
-  "name": "Youspan",
-  "category": "Colombia"
+  "name": "Quatz",
+  "category": "Automotive"
 }, {
   "id": 4,
-  "name": "Zoonder",
-  "category": "Georgia"
+  "name": "Browsezoom",
+  "category": "Tools"
 }, {
   "id": 5,
-  "name": "Skilith",
-  "category": "China"
+  "name": "Browsezoom",
+  "category": "Outdoors"
 }, {
   "id": 6,
-  "name": "Tagcat",
-  "category": "Indonesia"
+  "name": "Devshare",
+  "category": "Outdoors"
 }, {
   "id": 7,
-  "name": "Yodel",
-  "category": "Portugal"
+  "name": "Realpoint",
+  "category": "Industrial"
 }, {
   "id": 8,
-  "name": "Trupe",
-  "category": "Uruguay"
+  "name": "Photojam",
+  "category": "Garden"
 }, {
   "id": 9,
-  "name": "Skajo",
-  "category": "France"
+  "name": "Skimia",
+  "category": "Industrial"
 }, {
   "id": 10,
-  "name": "Oyondu",
-  "category": "Sweden"
+  "name": "Meezzy",
+  "category": "Kids"
 }, {
   "id": 11,
-  "name": "Brightbean",
-  "category": "Czech Republic"
+  "name": "Centizu",
+  "category": "Health"
 }, {
   "id": 12,
-  "name": "Quire",
-  "category": "Mexico"
+  "name": "Yamia",
+  "category": "Kids"
 }, {
   "id": 13,
-  "name": "Mudo",
-  "category": "Greece"
+  "name": "Muxo",
+  "category": "Tools"
 }, {
   "id": 14,
-  "name": "Rhyloo",
-  "category": "Russia"
+  "name": "Feedspan",
+  "category": "Industrial"
 }, {
   "id": 15,
-  "name": "Katz",
-  "category": "Nepal"
+  "name": "Aibox",
+  "category": "Garden"
 }, {
   "id": 16,
-  "name": "JumpXS",
-  "category": "Indonesia"
+  "name": "Zazio",
+  "category": "Movies"
 }, {
   "id": 17,
-  "name": "Gabtype",
-  "category": "Japan"
+  "name": "Buzzshare",
+  "category": "Toys"
 }, {
   "id": 18,
-  "name": "Kwideo",
-  "category": "Djibouti"
+  "name": "Gigazoom",
+  "category": "Computers"
 }, {
   "id": 19,
-  "name": "Brainsphere",
-  "category": "Poland"
+  "name": "Camimbo",
+  "category": "Baby"
 }, {
   "id": 20,
-  "name": "Zava",
-  "category": "Russia"
+  "name": "Wordware",
+  "category": "Home"
 }, {
   "id": 21,
-  "name": "Tagtune",
-  "category": "Argentina"
+  "name": "Tagcat",
+  "category": "Grocery"
 }, {
   "id": 22,
-  "name": "Plajo",
-  "category": "Poland"
+  "name": "Kimia",
+  "category": "Sports"
 }, {
   "id": 23,
-  "name": "Kwimbee",
-  "category": "China"
+  "name": "Gigabox",
+  "category": "Shoes"
 }, {
   "id": 24,
-  "name": "Dynabox",
-  "category": "Indonesia"
+  "name": "Wordtune",
+  "category": "Shoes"
 }, {
   "id": 25,
-  "name": "Youbridge",
-  "category": "Moldova"
+  "name": "Blognation",
+  "category": "Baby"
 }, {
   "id": 26,
-  "name": "Mydeo",
-  "category": "Poland"
+  "name": "Quinu",
+  "category": "Grocery"
 }, {
   "id": 27,
-  "name": "Cogibox",
-  "category": "China"
+  "name": "Meembee",
+  "category": "Jewelery"
 }, {
   "id": 28,
-  "name": "Bluejam",
-  "category": "United States"
+  "name": "Yodo",
+  "category": "Music"
 }, {
   "id": 29,
-  "name": "Linkbuzz",
-  "category": "Philippines"
+  "name": "Kimia",
+  "category": "Beauty"
 }, {
   "id": 30,
-  "name": "Blogspan",
-  "category": "United States"
-}, {
-  "id": 31,
-  "name": "Ooba",
-  "category": "Poland"
-}, {
-  "id": 32,
-  "name": "Snaptags",
-  "category": "Laos"
-}, {
-  "id": 33,
-  "name": "Skilith",
-  "category": "Portugal"
-}, {
-  "id": 34,
-  "name": "Kaymbo",
-  "category": "Russia"
-}, {
-  "id": 35,
-  "name": "Vimbo",
-  "category": "Argentina"
-}, {
-  "id": 36,
-  "name": "Thoughtstorm",
-  "category": "Russia"
-}, {
-  "id": 37,
-  "name": "Ooba",
-  "category": "Poland"
-}, {
-  "id": 38,
-  "name": "Aivee",
-  "category": "Russia"
-}, {
-  "id": 39,
-  "name": "Fliptune",
-  "category": "Brazil"
-}, {
-  "id": 40,
-  "name": "Youopia",
-  "category": "Hong Kong"
-}, {
-  "id": 41,
-  "name": "Meembee",
-  "category": "Brazil"
-}, {
-  "id": 42,
-  "name": "Oozz",
-  "category": "Sweden"
-}, {
-  "id": 43,
-  "name": "Skiptube",
-  "category": "Netherlands"
-}, {
-  "id": 44,
-  "name": "Photolist",
-  "category": "China"
-}, {
-  "id": 45,
-  "name": "Blognation",
-  "category": "Syria"
-}, {
-  "id": 46,
-  "name": "Fadeo",
-  "category": "Argentina"
-}, {
-  "id": 47,
-  "name": "Abata",
-  "category": "Philippines"
-}, {
-  "id": 48,
-  "name": "Yakijo",
-  "category": "Japan"
-}, {
-  "id": 49,
-  "name": "Blognation",
-  "category": "China"
-}, {
-  "id": 50,
-  "name": "Yozio",
-  "category": "Indonesia"
-}, {
-  "id": 51,
-  "name": "Demizz",
-  "category": "Turkmenistan"
-}, {
-  "id": 52,
-  "name": "Flipbug",
-  "category": "Tanzania"
-}, {
-  "id": 53,
-  "name": "Youbridge",
-  "category": "France"
-}, {
-  "id": 54,
-  "name": "Linkbridge",
-  "category": "Kyrgyzstan"
-}, {
-  "id": 55,
-  "name": "Bubbletube",
-  "category": "France"
-}, {
-  "id": 56,
-  "name": "Rhynyx",
-  "category": "Indonesia"
-}, {
-  "id": 57,
-  "name": "Yakitri",
-  "category": "Sudan"
-}, {
-  "id": 58,
-  "name": "Twitterwire",
-  "category": "Ireland"
-}, {
-  "id": 59,
-  "name": "Kare",
-  "category": "Russia"
-}, {
-  "id": 60,
-  "name": "Dabfeed",
-  "category": "Brazil"
-}, {
-  "id": 61,
-  "name": "Wikivu",
-  "category": "China"
-}, {
-  "id": 62,
-  "name": "Centidel",
-  "category": "Indonesia"
-}, {
-  "id": 63,
-  "name": "Ooba",
-  "category": "Pakistan"
-}, {
-  "id": 64,
-  "name": "Realblab",
-  "category": "Ireland"
-}, {
-  "id": 65,
-  "name": "Kazu",
-  "category": "Peru"
-}, {
-  "id": 66,
-  "name": "Buzzbean",
-  "category": "Philippines"
-}, {
-  "id": 67,
-  "name": "Aibox",
-  "category": "Vietnam"
-}, {
-  "id": 68,
-  "name": "Wikibox",
-  "category": "Thailand"
-}, {
-  "id": 69,
-  "name": "Tavu",
-  "category": "Argentina"
-}, {
-  "id": 70,
-  "name": "Edgeify",
-  "category": "Sweden"
-}, {
-  "id": 71,
-  "name": "Dynazzy",
-  "category": "Jamaica"
-}, {
-  "id": 72,
-  "name": "Ainyx",
-  "category": "China"
-}, {
-  "id": 73,
-  "name": "Skajo",
-  "category": "Portugal"
-}, {
-  "id": 74,
-  "name": "Skippad",
-  "category": "France"
-}, {
-  "id": 75,
-  "name": "Yakijo",
-  "category": "China"
-}, {
-  "id": 76,
-  "name": "Photobean",
-  "category": "Poland"
-}, {
-  "id": 77,
-  "name": "Ailane",
-  "category": "China"
-}, {
-  "id": 78,
-  "name": "Edgepulse",
-  "category": "Ukraine"
-}, {
-  "id": 79,
-  "name": "Yata",
-  "category": "Portugal"
-}, {
-  "id": 80,
-  "name": "Skipfire",
-  "category": "Russia"
-}, {
-  "id": 81,
-  "name": "Demimbu",
-  "category": "Indonesia"
-}, {
-  "id": 82,
-  "name": "Kayveo",
-  "category": "Germany"
-}, {
-  "id": 83,
-  "name": "Cogilith",
-  "category": "Japan"
-}, {
-  "id": 84,
-  "name": "Blogspan",
-  "category": "Poland"
-}, {
-  "id": 85,
-  "name": "Talane",
-  "category": "Philippines"
-}, {
-  "id": 86,
-  "name": "Rhynoodle",
-  "category": "Poland"
-}, {
-  "id": 87,
-  "name": "Wikibox",
-  "category": "Peru"
-}, {
-  "id": 88,
-  "name": "Latz",
-  "category": "Indonesia"
-}, {
-  "id": 89,
-  "name": "Rhynyx",
-  "category": "China"
-}, {
-  "id": 90,
-  "name": "Flashdog",
-  "category": "Palestinian Territory"
-}, {
-  "id": 91,
-  "name": "Quinu",
-  "category": "Indonesia"
-}, {
-  "id": 92,
-  "name": "Shuffledrive",
-  "category": "Indonesia"
-}, {
-  "id": 93,
-  "name": "Yamia",
-  "category": "Netherlands"
-}, {
-  "id": 94,
-  "name": "Voolith",
-  "category": "France"
-}, {
-  "id": 95,
-  "name": "Yodo",
-  "category": "Japan"
-}, {
-  "id": 96,
-  "name": "Jazzy",
-  "category": "Portugal"
-}, {
-  "id": 97,
-  "name": "Rhynyx",
-  "category": "China"
-}, {
-  "id": 98,
-  "name": "Rhyzio",
-  "category": "Slovenia"
-}, {
-  "id": 99,
-  "name": "Browsebug",
-  "category": "United States"
-}, {
-  "id": 100,
-  "name": "Livepath",
-  "category": "Honduras"
+  "name": "Trudeo",
+  "category": "Games"
 }
 ]
 }
